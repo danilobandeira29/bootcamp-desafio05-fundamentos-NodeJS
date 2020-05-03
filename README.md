@@ -10,7 +10,7 @@ Com o terminal aberto no diretório da aplicação, basta executar o comando:
 yarn
 ```
 
-## Inicilizando a aplicação
+## Inicializando a aplicação
 Com o terminal aberto no diretório da aplicação, basta executar o comando:
 ```
 yarn dev:server
